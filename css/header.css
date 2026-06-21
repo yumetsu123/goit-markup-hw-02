@@ -13,11 +13,17 @@
     font-weight: 500;
 }
 
-.navigation-link:hover {
+.navigation-link:hover,
+.navigation-link:focus {
     color: #404BBF;
 }
 
-.socials-link:hover {
+.header-contacts {
+    font-style: normal;
+}
+
+.socials-link:hover,
+.socials-link:focus {
     color: #404BBF;
 }
 
