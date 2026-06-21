@@ -1,0 +1,23 @@
+.header-logo {
+    font-size: 18px;
+    text-transform: capitalize;
+    font-weight: 700;
+    line-height: 1.33;
+    letter-spacing: 0.03em;
+    font-family: 'Railway', sans-serif;
+    color: #2E2F42;
+}
+
+.navigation-link {
+    color: #2E2F42;
+    font-weight: 500;
+}
+
+.navigation-link:hover {
+    color: #404BBF;
+}
+
+.socials-link:hover {
+    color: #404BBF;
+}
+
